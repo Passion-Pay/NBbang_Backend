@@ -69,3 +69,4 @@ replay_pid*
 
 # 설정 파일 Ignore
 /src/main/resources/*
+/config/*
